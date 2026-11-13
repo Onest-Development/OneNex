@@ -1,0 +1,332 @@
+[
+    {
+        "ERROR_ID": 200,
+        "DOCTO_ENT_ID": "20250605105029970003",
+        "DOCTO_ENT_REFERENCIA": "CF900",
+        "CUENTA_ID": 310,
+        "BODEGA_ID": 1,
+        "DETALLES": [
+            {
+                "DET_ENT_ID": 2016812,
+                "PRODUCTO_SKU": "000002",
+                "DET_ENT_ETIQUETA": "9786077470625",
+                "DET_ENT_CANT_PED": 8,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 2016813,
+                "PRODUCTO_SKU": "000003",
+                "DET_ENT_ETIQUETA": "9786077475552",
+                "DET_ENT_CANT_PED": 4,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 2016815,
+                "PRODUCTO_SKU": "000005",
+                "DET_ENT_ETIQUETA": "9788408227779",
+                "DET_ENT_CANT_PED": 1,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 2016816,
+                "PRODUCTO_SKU": "000006",
+                "DET_ENT_ETIQUETA": "9788408233015",
+                "DET_ENT_CANT_PED": 1,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 2016817,
+                "PRODUCTO_SKU": "000007",
+                "DET_ENT_ETIQUETA": "9786287572539",
+                "DET_ENT_CANT_PED": 1,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 2016818,
+                "PRODUCTO_SKU": "000008",
+                "DET_ENT_ETIQUETA": "9786287572515",
+                "DET_ENT_CANT_PED": 1,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 2016818,
+                "PRODUCTO_SKU": "000008",
+                "DET_ENT_ETIQUETA": "9788445014905",
+                "DET_ENT_CANT_PED": 2,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 2016819,
+                "PRODUCTO_SKU": "000009",
+                "DET_ENT_ETIQUETA": "9786287572508",
+                "DET_ENT_CANT_PED": 1,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            }
+        ]
+    },
+    {
+        "ERROR_ID": 200,
+        "DOCTO_ENT_ID": "20260604171839295966",
+        "DOCTO_ENT_REFERENCIA": "CF822",
+        "CUENTA_ID": 310,
+        "BODEGA_ID": 1,
+        "DETALLES": [
+            {
+                "DET_ENT_ID": 7773867,
+                "PRODUCTO_SKU": "505591",
+                "DET_ENT_ETIQUETA": "9786070765209",
+                "DET_ENT_CANT_PED": 4,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773868,
+                "PRODUCTO_SKU": "528722",
+                "DET_ENT_ETIQUETA": "9786073921978",
+                "DET_ENT_CANT_PED": 2,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773869,
+                "PRODUCTO_SKU": "532218",
+                "DET_ENT_ETIQUETA": "9788411409162",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773870,
+                "PRODUCTO_SKU": "532263",
+                "DET_ENT_ETIQUETA": "9788411128995",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773871,
+                "PRODUCTO_SKU": "528386",
+                "DET_ENT_ETIQUETA": "9786073921695",
+                "DET_ENT_CANT_PED": 2,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773872,
+                "PRODUCTO_SKU": "532783",
+                "DET_ENT_ETIQUETA": "9786070780363",
+                "DET_ENT_CANT_PED": 4,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773873,
+                "PRODUCTO_SKU": "521810",
+                "DET_ENT_ETIQUETA": "9788411125475",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773874,
+                "PRODUCTO_SKU": "521849",
+                "DET_ENT_ETIQUETA": "9788411404372",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773875,
+                "PRODUCTO_SKU": "532219",
+                "DET_ENT_ETIQUETA": "9788411129022",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773876,
+                "PRODUCTO_SKU": "532261",
+                "DET_ENT_ETIQUETA": "9788411403320",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773877,
+                "PRODUCTO_SKU": "532264",
+                "DET_ENT_ETIQUETA": "9788411122627",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773878,
+                "PRODUCTO_SKU": "527954",
+                "DET_ENT_ETIQUETA": "9786073917247",
+                "DET_ENT_CANT_PED": 1,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773879,
+                "PRODUCTO_SKU": "521790",
+                "DET_ENT_ETIQUETA": "9788413426174",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773880,
+                "PRODUCTO_SKU": "532034",
+                "DET_ENT_ETIQUETA": "9788411406796",
+                "DET_ENT_CANT_PED": 2,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773881,
+                "PRODUCTO_SKU": "528394",
+                "DET_ENT_ETIQUETA": "9786073920094",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773882,
+                "PRODUCTO_SKU": "527922",
+                "DET_ENT_ETIQUETA": "9786070796258",
+                "DET_ENT_CANT_PED": 4,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773883,
+                "PRODUCTO_SKU": "532784",
+                "DET_ENT_ETIQUETA": "9786073912945",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773884,
+                "PRODUCTO_SKU": "446628",
+                "DET_ENT_ETIQUETA": "9786070721786",
+                "DET_ENT_CANT_PED": 5,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773885,
+                "PRODUCTO_SKU": "527435",
+                "DET_ENT_ETIQUETA": "9786073910033",
+                "DET_ENT_CANT_PED": 1,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773886,
+                "PRODUCTO_SKU": "525287",
+                "DET_ENT_ETIQUETA": "9786073912938",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773887,
+                "PRODUCTO_SKU": "521748",
+                "DET_ENT_ETIQUETA": "9788413410319",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773888,
+                "PRODUCTO_SKU": "532047",
+                "DET_ENT_ETIQUETA": "9786073919708",
+                "DET_ENT_CANT_PED": 1,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773889,
+                "PRODUCTO_SKU": "502218",
+                "DET_ENT_ETIQUETA": "9786070763144",
+                "DET_ENT_CANT_PED": 2,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773890,
+                "PRODUCTO_SKU": "528372",
+                "DET_ENT_ETIQUETA": "9786073919630",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773891,
+                "PRODUCTO_SKU": "521780",
+                "DET_ENT_ETIQUETA": "9788413418032",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773892,
+                "PRODUCTO_SKU": "521788",
+                "DET_ENT_ETIQUETA": "9788491748502",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773893,
+                "PRODUCTO_SKU": "532262",
+                "DET_ENT_ETIQUETA": "9788411612418",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773894,
+                "PRODUCTO_SKU": "521042",
+                "DET_ENT_ETIQUETA": "9786073903356",
+                "DET_ENT_CANT_PED": 4,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773895,
+                "PRODUCTO_SKU": "521775",
+                "DET_ENT_ETIQUETA": "9788411123228",
+                "DET_ENT_CANT_PED": 3,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773896,
+                "PRODUCTO_SKU": "508562",
+                "DET_ENT_ETIQUETA": "9786070772917",
+                "DET_ENT_CANT_PED": 1,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            },
+            {
+                "DET_ENT_ID": 7773897,
+                "PRODUCTO_SKU": "520945",
+                "DET_ENT_ETIQUETA": "9786073904070",
+                "DET_ENT_CANT_PED": 4,
+                "DET_ENT_CANT_REC": 0,
+                "DET_ENT_CANT_CONF": 0
+            }
+        ]
+    }
+]
